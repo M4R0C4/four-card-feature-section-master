@@ -1,0 +1,12 @@
+.supervisor{
+    border-top: 4px solid var(--tag-ciano);
+}
+.team{
+    border-top: 4px solid var(--tag-vermelho);
+}        
+.karma{
+    border-top: 4px solid var(--tag-laranja);
+}
+.calculator{
+    border-top: 4px solid var(--tag-azul-claro);
+}
